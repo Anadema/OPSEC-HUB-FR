@@ -149,7 +149,7 @@ Ces enquêtes montrent comment un OPSEC solide a permis de collecter des intel s
 ## 🏋️‍♂️ **7. Exercices Pratiques OPSEC**
 Mettez en pratique ces exercices progressifs pour tester et renforcer votre OPSEC. Commencez par les basiques et montez en complexité. Chaque exercice inclut des étapes, outils et vérifications. Temps estimé : 30-60 min par exercice.
 
-### a. **Exercice 1 : Audit de Votre Empreinte Navigateur (Niveau Débutant) 🔍**
+### **Exercice 1 : Audit de Votre Empreinte Navigateur (Niveau Débutant) 🔍**
 **Objectif** : Identifier et réduire votre fingerprinting.
 1. Ouvrez un navigateur incognito et visitez [AmIUnique](https://amiunique.org/).
 2. Notez votre score d'unicité (IP, User-Agent, Canvas, etc.).
@@ -158,7 +158,7 @@ Mettez en pratique ces exercices progressifs pour tester et renforcer votre OPSE
 **Vérification** : Comparez avant/après. Si >5%, ajoutez [User-Agent Switcher](https://addons.mozilla.org/fr/firefox/addon/user-agent-string-switcher/).
 **Ressource** : [Guide EFF Fingerprinting](https://ssd.eff.org/module/categories-fingerprinting).
 
-### b. **Exercice 2 : Création d'un Sock Puppet Anonyme (Niveau Débutant) 👤**
+### **Exercice 2 : Création d'un Sock Puppet Anonyme (Niveau Débutant) 👤**
 **Objectif** : Générer une identité fictive sans traces.
 1. Utilisez [Fake Name Generator](https://www.fakenamegenerator.com/) pour nom, bio, adresse.
 2. Créez un email via [Temp Mail](https://temp-mail.org/).
@@ -168,7 +168,7 @@ Mettez en pratique ces exercices progressifs pour tester et renforcer votre OPSE
 **Vérification** : Recherchez l'email/nom sur Google – zéro résultats liés à vous.
 **Ressource** : [Sock Puppet Guide](https://www.bellingcat.com/resources/how-tos/2021/01/11/osint-opsec-guide/).
 
-### c. **Exercice 3 : Nettoyage de Métadonnées d'une Image (Niveau Intermédiaire) 📸**
+### **Exercice 3 : Nettoyage de Métadonnées d'une Image (Niveau Intermédiaire) 📸**
 **Objectif** : Éliminer les traces EXIF pour éviter géolocalisation.
 1. Téléchargez une photo personnelle (ex. selfie).
 2. Vérifiez métadonnées avec [Jeffrey's Image Metadata Viewer](https://exif.regex.info/exif.cgi).
@@ -178,7 +178,7 @@ Mettez en pratique ces exercices progressifs pour tester et renforcer votre OPSE
 **Vérification** : Aucune info sensible visible.
 **Ressource** : [ExifTool Tutorial](https://www.sans.org/blog/metadata-extraction-with-exiftool/).
 
-### d. **Exercice 4 : Simulation d'Enquête Anonyme avec VM (Niveau Intermédiaire) 💻**
+### **Exercice 4 : Simulation d'Enquête Anonyme avec VM (Niveau Intermédiaire) 💻**
 **Objectif** : Isoler une recherche OSINT.
 1. Installez [VirtualBox](https://www.virtualbox.org/) et créez une VM Ubuntu.
 2. Installez Tor Browser dans la VM.
@@ -188,7 +188,7 @@ Mettez en pratique ces exercices progressifs pour tester et renforcer votre OPSE
 **Vérification** : Testez IP sur [ipleak.net](https://ipleak.net/) avant/après – aucune fuite.
 **Ressource** : [TraceLabs VM Setup](https://www.tracelabs.org/initiatives/osint-vm).
 
-### e. **Exercice 5 : Modèle de Menace Personnel (Niveau Avancé) 📊**
+### **Exercice 5 : Modèle de Menace Personnel (Niveau Avancé) 📊**
 **Objectif** : Cartographier vos risques.
 1. Listez vos actifs (appareils, comptes, habitudes) dans un doc encrypté.
 2. Identifiez menaces (ex. "collègue curieux" ou "hacker ciblé").
