@@ -2,7 +2,7 @@
 <br><br>
 
 <p align="center">
-  <img src="picture/ops.jpg" width="754" style="background-color:black; padding:2px;">
+  <img src="picture/ops.jpg" width="600" style="background-color:black; padding:2px;">
 </p>
 <br><br>
 
