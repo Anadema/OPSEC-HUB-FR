@@ -299,13 +299,13 @@ Ce processus est itératif et doit être revu régulièrement, car les menaces �
 
 Voici trois illustrations pour visualiser le processus. 
 
-1. **Diagramme du Flux OPSEC Complet** : Une vue d'ensemble du cycle de décision.  
+1. **Diagramme du Flux OPSEC Complet** : Une vue d'ensemble du cycle de décision.  <br>
    ![Diagramme du Flux OPSEC Complet](picture/opsec_flow_1.jpg) 
 
-2. **Identification des Informations Critiques** : Schéma public/private.  
+2. **Identification des Informations Critiques** : Schéma public/private.  <br>
    ![Identification des Informations Critiques](picture/opsec_flow_3.jpg) 
 
-3. **Matrice d'Évaluation des Risques** : Visualisation 5x5 pour prioriser.  
+3. **Matrice d'Évaluation des Risques** : Visualisation 5x5 pour prioriser.  <br>
    ![Matrice d'Évaluation des Risques](picture/opsec_flow_2.jpg) 
 ---
 <br><br>
