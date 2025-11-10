@@ -292,7 +292,7 @@ Voici trois illustrations pour visualiser le processus.
 
 2. **Identification des Informations Critiques** :  <br><br>
    ![Identification des Informations Critiques](picture/opsec_flow_3.jpg) 
-   [Source](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3&ved=2ahUKEwivsJLw4OiQAxUJnf0HHcE6D9AQh-wKegQIWRAD&usg=AOvVaw3HkibZ_ZWf4qNrIisECf8y) 
+   [Source](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) 
 
 3. **Matrice d'Évaluation des Risques** :  <br><br>
    ![Matrice d'Évaluation des Risques](picture/opsec_flow_2.jpg) 
