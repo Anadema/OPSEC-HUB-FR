@@ -63,6 +63,8 @@
 - [Qu'est-ce que l'OPSEC ? (Fortinet)](https://www.fortinet.com/fr/resources/cyberglossary/operational-security) – Explication détaillée de l'OPSEC en français, processus de gestion des risques.
 - [Qu'est-ce que l'OPSEC ? (Proofpoint)](https://www.proofpoint.com/fr/threat-reference/operational-security-opsec) – Pilier essentiel de la cybersécurité, pratiques pour empêcher les fuites d'informations sensibles.
 - [Qu'est-ce que l'OPSEC ? (Check Point)](https://www.checkpoint.com/fr/cyber-hub/threat-prevention/what-is-soc/what-is-operational-security-opsec/) – Identification des menaces et vulnérabilités potentielles via OPSEC.
+- [Crypto OPSEC Guide Part 1: Private Key Phishing Security](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security) – Guide sur la sécurité des clés privées en crypto contre le phishing.
+- [OPSEC: Everyone Has Something to Hide – Part 3](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) – OPSEC pour tous, focus sur les fuites personnelles et professionnelles.
 ---
 <br>
 
@@ -88,6 +90,7 @@
 - [OpSec Guide (Scrut1ny)](https://github.com/Scrut1ny/OpSec-Guide) – Insights pour privacy, anonymat et sécurité personnelle.
 - [The Guide To Online Anonymity (THGTOA)](https://github.com/Anon-Planet/thgtoa) – Guide complet pour anonymat en ligne et OPSEC.
 - [OPSEC Academy README](https://github.com/opsecacademy/opsecacademy.github.io/blob/main/README.md) – Aperçu des ressources éducatives OPSEC.
+- [OPSEC Analysis Resources (DNI PDF)](https://www.dni.gov/files/NCSC/documents/nittf/OPSEC-Analysis-Resources.pdf) – Ressources d'analyse OPSEC officielles du DNI (EN).
 ---
 <br>
 
@@ -109,7 +112,7 @@
 - [Tails OS](https://tails.net/) – Système portable amnésique pour isolation.
 - [VeraCrypt](https://www.veracrypt.fr/) – Chiffrement de disques.
 - [VirtualBox](https://www.virtualbox.org/) – Machines virtuelles pour isolation.
-- [Cloud personale](https://kasm.com/cloud-personal ) – VM en ligne.
+- [Cloud personnelle](https://kasm.com/cloud-personal ) – VM en ligne.
 - [HiddenVM](https://github.com/aforensics/HiddenVM) – Lance VMs dans Tails pour anti-forensique et deniability.
 - [Awesome GrapheneOS Guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide) – Guide pour OS mobile privacy-focused (GrapheneOS).
 
@@ -285,8 +288,30 @@ Voici une liste d’entreprises françaises axées sur OPSEC, privacy et cybers�
 
 Utilisez [MindMeister](https://www.mindmeister.com/) pour mapper le [Crypto-OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) : Créez des mind maps collaboratives pour visualiser menaces, contre-mesures et flux (drag-and-drop, notes, liens sécurisés, GDPR-compliant).
 
-![OPSEC MindMap Example](picture/opsec_roadmap.jpg) <!-- À ajouter -->
-Source : Adapté de GitHub Roadmap via MindMeister.
+## OPSEC FLOW PROCESS
+
+Le processus OPSEC (Operations Security) est une méthode systématique pour identifier, contrôler et protéger les informations critiques contre les menaces potentielles. Il est applicable à tous, que ce soit dans le contexte militaire, professionnel, personnel ou même pour la sécurité des cryptomonnaies. Ce guide suit le flux standard du processus OPSEC, enrichi par des ressources spécialisées. Le flux se compose de cinq étapes clés, représentées ci-dessous en tableau pour plus de clarté.
+
+| Étape | Description Brève | Objectif Principal |
+|-------|-------------------|--------------------|
+| 1. Identifier les informations critiques | Déterminer ce qui doit être protégé. | Éviter la divulgation involontaire. |
+| 2. Analyser les menaces | Identifier les acteurs malveillants. | Comprendre les intentions et capacités. |
+| 3. Analyser les vulnérabilités | Évaluer les faiblesses internes. | Détecter les points d'entrée potentiels. |
+| 4. Évaluer les risques | Calculer la probabilité et l'impact. | Prioriser les actions. |
+| 5. Appliquer les contre-mesures | Mettre en place des protections. | Réduire les risques résiduels. |
+
+Ce processus est itératif et doit être revu régulièrement, car les menaces évoluent (par exemple, phishing en crypto ou exposition sur les réseaux sociaux).
+
+Voici trois illustrations pour visualiser le processus. Intégrez les liens des images ci-dessous.
+
+1. **Diagramme du Flux OPSEC Complet** : Une vue d'ensemble du cycle itératif.  
+   ![Diagramme du Flux OPSEC Complet](picture/opsec_flow_1.jpg) <!-- Lien à ajouter ici – e.g., flowchart OPSEC cycle -->
+
+2. **Identification des Informations Critiques** : Schéma montrant la liste CIL/CIIL.  
+   ![Identification des Informations Critiques](picture/opsec_flow_2.jpg) <!-- Lien à ajouter ici – e.g., diagram critical info OPSEC -->
+
+3. **Matrice d'Évaluation des Risques** : Visualisation 5x5 pour prioriser.  
+   ![Matrice d'Évaluation des Risques](picture/opsec_flow_3.jpg) <!-- Lien à ajouter ici – e.g., risk matrix OPSEC -->
 ---
 <br><br>
 
