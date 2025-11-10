@@ -61,7 +61,7 @@
 - [Proactive Paranoia: AlphaBay Case](https://reallifemag.com/proactive-paranoia/) – Leçons d'Alexandre Cazes.
 - [OPSEC Introduction (187FW)](https://www.187fw.ang.af.mil/About/OPSEC/) – Importance de l'OPSEC pour protéger les informations critiques.
 - [Qu'est-ce que l'OPSEC ? (Fortinet)](https://www.fortinet.com/fr/resources/cyberglossary/operational-security) – Explication détaillée de l'OPSEC en français, processus de gestion des risques.
-- [Qu'est-ce que l'OPSEC ? (Proofpoint FR)](https://www.proofpoint.com/fr/threat-reference/operational-security-opsec) – Pilier essentiel de la cybersécurité, pratiques pour empêcher les fuites d'informations sensibles.
+- [Qu'est-ce que l'OPSEC ? (Proofpoint)](https://www.proofpoint.com/fr/threat-reference/operational-security-opsec) – Pilier essentiel de la cybersécurité, pratiques pour empêcher les fuites d'informations sensibles.
 - [Qu'est-ce que l'OPSEC ? (Check Point)](https://www.checkpoint.com/fr/cyber-hub/threat-prevention/what-is-soc/what-is-operational-security-opsec/) – Identification des menaces et vulnérabilités potentielles via OPSEC.
 ---
 <br>
