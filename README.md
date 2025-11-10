@@ -41,7 +41,6 @@
 - [🛡️ OPSEC Jobs](#opsec-jobs)
   - [🇫🇷 Entreprises françaises spécialisées en OPSEC](#entreprises-francaises)
   - [🌍 Entreprises internationales spécialisées en OPSEC](#entreprises-internationales)
-  - [🏢 Recherche Emploi](#recherche-emploi)
   - [🎖️ Bonus](#bonus)
 
 <br>
@@ -269,15 +268,6 @@ Voici une liste d’entreprises françaises axées sur OPSEC, privacy et cybers�
 - **OpSec Security (Global)** – Protection intégrée pour brands. [Site](https://www.opsecsecurity.com/)
 - **EFF (US)** – Advocacy et outils OPSEC. [Site](https://www.eff.org/)
 - **Tor Project (Global)** – Anonymat réseau. [Site](https://www.torproject.org/)
----
-<br>
-
-<a id="recherche-emploi"></a>
-## 🏢 Recherche Emploi
-- [Indeed OPSEC Jobs](https://www.indeed.com/q-opsec-jobs.html)
-- [LinkedIn OPSEC Security](https://www.linkedin.com/jobs/opsec-security-jobs-worldwide)
-- [ZipRecruiter OPSEC](https://www.ziprecruiter.com/Jobs/Opsec)
-- [Canadian Cybersecurity Jobs](https://canadiancybersecurityjobs.com/)
 ---
 <br><br>
 
