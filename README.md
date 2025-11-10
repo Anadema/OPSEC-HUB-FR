@@ -284,12 +284,6 @@ Voici une liste d’entreprises françaises axées sur OPSEC, privacy et cybers�
 <a id="bonus"></a>
 # 🎖️ Bonus
 
-## OPSEC Roadmap Visual
-
-Utilisez [MindMeister](https://www.mindmeister.com/) pour mapper le [Crypto-OpSec Roadmap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) : Créez des mind maps collaboratives pour visualiser menaces, contre-mesures et flux (drag-and-drop, notes, liens sécurisés, GDPR-compliant).
-
-## OPSEC FLOW PROCESS
-
 Le processus OPSEC (Operations Security) est une méthode systématique pour identifier, contrôler et protéger les informations critiques contre les menaces potentielles. Il est applicable à tous, que ce soit dans le contexte militaire, professionnel, personnel ou même pour la sécurité des cryptomonnaies. Ce guide suit le flux standard du processus OPSEC, enrichi par des ressources spécialisées. Le flux se compose de cinq étapes clés, représentées ci-dessous en tableau pour plus de clarté.
 
 | Étape | Description Brève | Objectif Principal |
