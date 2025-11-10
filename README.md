@@ -9,11 +9,6 @@
 # 🛡️ OPSEC-HUB-FR 
 <br><br>
 
-<p align="center">
-  <img src="picture/OPSEC-HUB-FR.jpg" width="754" style="background-color:black; padding:2px;"> <!-- À remplacer par une image appropriée si disponible -->
-</p>
-<br><br>
-
 <p>
 🇫🇷 <strong>OPSEC-HUB-FR</strong> constitue une plateforme stratégique à l'intention des apprenants et novices en sécurité opérationnelle : elle centralise des ressources techniques, des protocoles éprouvés et des tutoriels structurés, principalement en français avec des extensions en anglais, pour maîtriser la sécurisation des données critiques, anticiper les vulnérabilités de traçabilité et implémenter des mesures OPSEC de manière responsable, méthodique et formatrice.<br><br>
 
