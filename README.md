@@ -109,7 +109,7 @@
 - [Tails OS](https://tails.net/) – Système portable amnésique pour isolation.
 - [VeraCrypt](https://www.veracrypt.fr/) – Chiffrement de disques.
 - [VirtualBox](https://www.virtualbox.org/) – Machines virtuelles pour isolation.
-- [WSUS Offline](https://wsusoffline.net/) – Mises à jour offline.
+- [Cloud personale](https://kasm.com/cloud-personal ) – VM en ligne.
 - [HiddenVM](https://github.com/aforensics/HiddenVM) – Lance VMs dans Tails pour anti-forensique et deniability.
 - [Awesome GrapheneOS Guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide) – Guide pour OS mobile privacy-focused (GrapheneOS).
 
