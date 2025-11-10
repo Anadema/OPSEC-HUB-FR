@@ -52,14 +52,14 @@
 <a id="articles"></a>
 ## ✍️ Articles
 - [OpSec 101 : Guide pour débutants](https://opsec101.org/) – Introduction rationnelle au processus OPSEC.
-- [OPSEC in OSINT: Protecting Yourself While Investigating](https://sosintel.co.uk/opsec-in-osint-protecting-yourself-while-investigating/) – Intégration OPSEC et OSINT.
-- [OpSec Oversights: How Cybercrooks Get Caught](https://www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/) – Échecs célèbres.
-- [What Were Ross Ulbricht's Biggest Mistakes?](https://plasbit.com/blog/what-were-ross-ulbricht-biggest-mistakes) – Analyse des erreurs de Silk Road.
-- [Proactive Paranoia: AlphaBay Case](https://reallifemag.com/proactive-paranoia/) – Leçons d'Alexandre Cazes.
 - [OPSEC Introduction (187FW)](https://www.187fw.ang.af.mil/About/OPSEC/) – Importance de l'OPSEC pour protéger les informations critiques.
 - [Qu'est-ce que l'OPSEC ? (Fortinet)](https://www.fortinet.com/fr/resources/cyberglossary/operational-security) – Explication détaillée de l'OPSEC en français, processus de gestion des risques.
 - [Qu'est-ce que l'OPSEC ? (Proofpoint)](https://www.proofpoint.com/fr/threat-reference/operational-security-opsec) – Pilier essentiel de la cybersécurité, pratiques pour empêcher les fuites d'informations sensibles.
 - [Qu'est-ce que l'OPSEC ? (Check Point)](https://www.checkpoint.com/fr/cyber-hub/threat-prevention/what-is-soc/what-is-operational-security-opsec/) – Identification des menaces et vulnérabilités potentielles via OPSEC.
+- [OPSEC in OSINT: Protecting Yourself While Investigating](https://sosintel.co.uk/opsec-in-osint-protecting-yourself-while-investigating/) – Intégration OPSEC et OSINT.
+- [OpSec Oversights: How Cybercrooks Get Caught](https://www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/) – Échecs célèbres.
+- [What Were Ross Ulbricht's Biggest Mistakes?](https://plasbit.com/blog/what-were-ross-ulbricht-biggest-mistakes) – Analyse des erreurs de Silk Road.
+- [Proactive Paranoia: AlphaBay Case](https://reallifemag.com/proactive-paranoia/) – Leçons d'Alexandre Cazes.
 - [Crypto OPSEC Guide Part 1: Private Key Phishing Security](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security) – Guide sur la sécurité des clés privées en crypto contre le phishing.
 - [OPSEC: Everyone Has Something to Hide – Part 3](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) – OPSEC pour tous, focus sur les fuites personnelles et professionnelles.
 ---
@@ -93,6 +93,12 @@
 
 <a id="videos"></a>
 ## 🎥 Vidéos & Podcasts
+
+- [SALTINBANK - OSINT & OPSEC](https://www.youtube.com/watch?v=_8vvj5ck3ng) - Lien entre les deux domaines
+- [SALTINBANK - INTRODUCTION A l'OPSEC](https://www.youtube.com/watch?v=Ao4c7jzW7Js) - Le contexte
+- [SALTINBANK - REDTEAM//OPSEC framework I](https://www.youtube.com/watch?v=xqPgyeR1u1U) - aller plus loin
+- [SALTINBANK - REDTEAM//OPSEC framework III](https://www.youtube.com/watch?v=xqPgyeR1u1U) - aller plus loin
+- [SALTINBANK - REDTEAM//OPSEC framework IV](https://www.youtube.com/watch?v=m92pmIXxu5Q) - aller plus loin
 - [OPSEC Basics Explained](https://www.youtube.com/watch?v=oV07c-1EDHs) – Introduction aux bases.
 - [Advanced OPSEC Techniques](https://www.youtube.com/watch?v=qsN44n0AQD8) – Techniques avancées.
 - [OPSEC in Practice](https://www.youtube.com/watch?v=6OTVOUicKOI) – Exemples pratiques.
