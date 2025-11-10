@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPSEC-HUB-FR</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0 auto;
+            max-width: 900px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .centered {
+            text-align: center;
+        }
+        br {
+            line-height: 1;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="centered">🔒 <strong>OPSEC-HUB-FR</strong> 🔒</h1>
+    <br><br>
+
+    <p class="centered">
+        <img src="picture/opsec.jpg" width="600" style="background-color:black; padding:2px;">
+    </p>
+    <br><br>
+
+    <p>
+        🇫🇷 <strong>OPSEC-HUB-FR</strong> constitue une plateforme stratégique à l'intention des apprenants et novices en sécurité opérationnelle : elle centralise des ressources techniques, des protocoles éprouvés et des tutoriels structurés, principalement en français avec des extensions en anglais, pour maîtriser la sécurisation des données critiques, anticiper les vulnérabilités de traçabilité et implémenter des mesures OPSEC de manière anticipée, méthodique et formatrice.<br><br>
+
+        🇬🇧 <strong>OPSEC-HUB-FR</strong> serves as a strategic platform for learners and newcomers in operational security: it consolidates technical resources, proven protocols, and structured tutorials, primarily in French with English extensions, to master the safeguarding of critical data, anticipate traceability vulnerabilities, and implement OPSEC measures in an anticipatory, methodical, and educational framework.<br><br>
+
+        🇷🇺 <strong>OPSEC-HUB-FR</strong> представляет собой стратегическую платформу для обучающихся и новичков в области оперативной безопасности: она консолидирует технические ресурсы, проверенные протоколы и структурированные руководства, в основном на французском с дополнениями на английском, чтобы освоить защиту критически важных данных, предвидеть уязвимости отслеживания и внедрять меры OPSEC предвидяще, методично и в образовательном формате.<br><br>
+
+        🇮🇳 <strong>OPSEC-HUB-FR</strong> एक रणनीतिक मंच है जो सुरक्षा संचालन के सीखने वालों और नवागंतुकों के लिए है: यह तकनीकी संसाधनों, सिद्ध प्रोटोकॉल्स और संरचित ट्यूटोरियल्स को एकत्र करता है, मुख्य रूप से फ्रेंच में अंग्रेजी विस्तारों के साथ, महत्वपूर्ण डेटा की सुरक्षा को महारत हासिल करने, ट्रेसबिलिटी कमजोरियों की भविष्यवाणी करने और OPSEC उपायों को पूर्वानुमानित, व्यवस्थित और शैक्षिक ढांचे में लागू करने के लिए।
+    </p>
+    <br><br>
+
+    <h2>📑 Table des matières</h2>
+
+    <ul>
+        <li><a href="#opsec-ressources">🛡️ OPSEC Ressources</a>
+            <ul>
+                <li><a href="#articles">✍️ Articles</a></li>
+                <li><a href="#methodes">🧭 Méthodes</a></li>
+                <li><a href="#guides-pdf">📚 Guides / PDF (FR/EN)</a></li>
+                <li><a href="#videos">🎥 Vidéos</a></li>
+                <li><a href="#tools">🔧 Outils</a></li>
+                <li><a href="#frameworks">🧰 Frameworks</a></li>
+                <li><a href="#autre-sources">🔍 Autres Sources</a></li>
+                <li><a href="#boards">📋 Boards</a></li>
+            </ul>
+        </li>
+        <li><a href="#opsec-communaute">🛡️ OPSEC Communauté</a>
+            <ul>
+                <li><a href="#communautes-fr">🇫🇷  Communautés FR</a></li>
+                <li><a href="#communautes-en">🌍 Communautés EN</a></li>
+            </ul>
+        </li>
+        <li><a href="#opsec-formations">🛡️ OPSEC Formations</a>
+            <ul>
+                <li><a href="#formations-gratuites">🎓 Formations gratuites</a></li>
+                <li><a href="#formations-payantes">💼 Formations / certifications payantes</a></li>
+                <li><a href="#challenges">🕹️ Challenges</a></li>
+            </ul>
+        </li>
+        <li><a href="#opsec-jobs">🛡️ OPSEC Jobs</a>
+            <ul>
+                <li><a href="#entreprises-francaises">🇫🇷 Entreprises françaises spécialisées en OPSEC</a></li>
+                <li><a href="#entreprises-internationales">🌍 Entreprises internationales spécialisées en OPSEC</a></li>
+                <li><a href="#recherche-emploi">🏢 Recherche Emploi</a></li>
+                <li><a href="#bonus">🎖️ Bonus</a></li>
+            </ul>
+        </li>
+    </ul>
+
+    <br>
+
+    <a id="opsec-ressources"></a>
+    <h1>🛡️ OPSEC Ressources</h1>
+    <br>
+
+    <a id="articles"></a>
+    <h2>✍️ Articles</h2>
+    <ul>
+        <li><a href="https://opsec101.org/">OpSec 101 : Guide pour débutants</a> – Introduction rationnelle au processus OPSEC.</li>
+        <li><a href="https://sosintel.co.uk/opsec-in-osint-protecting-yourself-while-investigating/">OPSEC in OSINT: Protecting Yourself While Investigating</a> – Intégration OPSEC et OSINT.</li>
+        <li><a href="https://www.reddit.com/r/OSINT/comments/1iij7su/you_leak_more_data_than_you_think_opsec_guide_to/">You Leak More Data Than You Think: OPSEC Guide</a> – Fuites courantes et conseils.</li>
+        <li><a href="https://www.reddit.com/r/opsec/comments/1ij8nyn/most_opsec_advice_is_surface_level_heres_a_guide/">Most OPSEC Advice is Surface Level: Deeper Guide</a> – Au-delà des bases.</li>
+        <li><a href="https://www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/">OpSec Oversights: How Cybercrooks Get Caught</a> – Échecs célèbres.</li>
+        <li><a href="https://plasbit.com/blog/what-were-ross-ulbricht-biggest-mistakes">What Were Ross Ulbricht's Biggest Mistakes?</a> – Analyse des erreurs de Silk Road.</li>
+        <li><a href="https://reallifemag.com/proactive-paranoia/">Proactive Paranoia: AlphaBay Case</a> – Leçons d'Alexandre Cazes.</li>
+        <li><a href="https://www.187fw.ang.af.mil/About/OPSEC/">OPSEC Introduction (187FW)</a> – Importance de l'OPSEC pour protéger les informations critiques.</li>
+        <li><a href="https://www.fortinet.com/fr/resources/cyberglossary/operational-security">Qu'est-ce que l'OPSEC ? (Fortinet)</a> – Explication détaillée de l'OPSEC en français, processus de gestion des risques.</li>
+        <li><a href="https://www.proofpoint.com/fr/threat-reference/operational-security-opsec">Qu'est-ce que l'OPSEC ? (Proofpoint)</a> – Pilier essentiel de la cybersécurité, pratiques pour empêcher les fuites d'informations sensibles.</li>
+        <li><a href="https://www.checkpoint.com/fr/cyber-hub/threat-prevention/what-is-soc/what-is-operational-security-opsec/">Qu'est-ce que l'OPSEC ? (Check Point)</a> – Identification des menaces et vulnérabilités potentielles via OPSEC.</li>
+        <li><a href="https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security">Crypto OPSEC Guide Part 1: Private Key Phishing Security</a> – Guide sur la sécurité des clés privées en crypto contre le phishing.</li>
+        <li><a href="https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3">OPSEC: Everyone Has Something to Hide – Part 3</a> – OPSEC pour tous, focus sur les fuites personnelles et professionnelles.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="methodes"></a>
+    <h2>🧭 Méthodes</h2>
+    <ul>
+        <li><a href="https://opsec101.org/#the-opsec-process">Principes Fondamentaux de l'OPSEC (Cycle NSA)</a> – 5 étapes : Identifier, Détecter, Évaluer, Analyser, Appliquer.</li>
+        <li><a href="https://ssd.eff.org/">Surveillance Self-Defense Guide (EFF)</a> – Guide complet contre la surveillance.</li>
+        <li><a href="https://medium.com/@varppi/opsec-privacy-handbook-5e0a012c58f6">OPSEC & PRIVACY HANDBOOK</a> – Manuel pratique.</li>
+        <li><a href="https://plainshift.io/blog/minimum-viable-opsec/">Minimum Viable OPSEC</a> – OPSEC minimal pour devs crypto.</li>
+        <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/4206156/opsec-more-than-a-checklist/">OPSEC: More Than a Checklist</a> – Au-delà des listes.</li>
+        <li><a href="https://www.dni.gov/files/NCSC/documents/nittf/OPSEC_Program_Policy_Checklist.pdf">OPSEC Policy Checklist (DNI)</a> – Checklist officielle.</li>
+        <li><a href="https://wiki.tilde.fun/guide/opsec">OPSEC Guide (Tilde Wiki)</a> – Processus OPSEC en 5 étapes, réponse à un compromis et conseils mobiles.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="guides-pdf"></a>
+    <h2>📚 Guides / PDF (FR/EN)</h2>
+    <ul>
+        <li><a href="https://www.dhs.gov/sites/default/files/2024-11/24_110824_identify-theft-508.pdf">Identity Theft Prevention (DHS PDF)</a> – Prévention des vols d'identité (EN).</li>
+        <li><a href="https://www.blackhillsinfosec.com/wp-content/uploads/2021/03/SLIDES_OPSECFundamentalsRemoteRedTeams-1.pdf">OPSEC Fundamentals for Remote Red Teams (PDF)</a> – Bases pour équipes distantes.</li>
+        <li><a href="https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap">Crypto-OpSec-SelfGuard-RoadMap (GitHub Guide)</a> – Roadmap crypto et OPSEC, avec 25 problèmes et contre-mesures.</li>
+        <li><a href="https://ssd.eff.org/module-categories/basics">EFF Surveillance Self-Defense Basics</a> – Bases de défense.</li>
+        <li><a href="https://whos-zycher.github.io/opsec-guide/">OPSEC Guide (Zycher)</a> – Guide complet avec checklists VM.</li>
+        <li><a href="https://github.com/Scrut1ny/OpSec-Guide">OpSec Guide (Scrut1ny)</a> – Insights pour privacy, anonymat et sécurité personnelle.</li>
+        <li><a href="https://github.com/Anon-Planet/thgtoa">The Guide To Online Anonymity (THGTOA)</a> – Guide complet pour anonymat en ligne et OPSEC.</li>
+        <li><a href="https://github.com/opsecacademy/opsecacademy.github.io/blob/main/README.md">OPSEC Academy README</a> – Aperçu des ressources éducatives OPSEC.</li>
+        <li><a href="https://www.dni.gov/files/NCSC/documents/nittf/OPSEC-Analysis-Resources.pdf">OPSEC Analysis Resources (DNI PDF)</a> – Ressources d'analyse OPSEC officielles du DNI (EN).</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="videos"></a>
+    <h2>🎥 Vidéos & Podcasts</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=oV07c-1EDHs">OPSEC Basics Explained</a> – Introduction aux bases.</li>
+        <li><a href="https://www.youtube.com/watch?v=qsN44n0AQD8">Advanced OPSEC Techniques</a> – Techniques avancées.</li>
+        <li><a href="https://www.youtube.com/watch?v=6OTVOUicKOI">OPSEC in Practice</a> – Exemples pratiques.</li>
+        <li><a href="https://www.youtube.com/watch?v=teRYkWkn1sU">Dark Web OPSEC Rules</a> – Règles pour le Dark Web.</li>
+        <li><a href="https://www.youtube.com/watch?v=StSLxFbVz0M">Crypto OPSEC Roadmap</a> – Roadmap crypto.</li>
+        <li><a href="https://www.youtube.com/watch?v=u5Lv_HXICpo">EFF Surveillance Self-Defense</a> – Guide EFF en vidéo.</li>
+        <li><a href="https://www.youtube.com/results?search_query=tails+os+opsec">Tails OS Tutorial</a> – Tutoriels Tails.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="tools"></a>
+    <h2>🔧 Outils</h2>
+    <p><strong>Configuration Environnement :</strong></p>
+    <ul>
+        <li><a href="https://tails.net/">Tails OS</a> – Système portable amnésique pour isolation.</li>
+        <li><a href="https://www.veracrypt.fr/">VeraCrypt</a> – Chiffrement de disques.</li>
+        <li><a href="https://www.virtualbox.org/">VirtualBox</a> – Machines virtuelles pour isolation.</li>
+        <li><a href="https://kasm.com/cloud-personal ">Cloud personnelle</a> – VM en ligne.</li>
+        <li><a href="https://github.com/aforensics/HiddenVM">HiddenVM</a> – Lance VMs dans Tails pour anti-forensique et deniability.</li>
+        <li><a href="https://github.com/iAnonymous3000/awesome-grapheneos-guide">Awesome GrapheneOS Guide</a> – Guide pour OS mobile privacy-focused (GrapheneOS).</li>
+    </ul>
+
+    <p><strong>Navigation & Browser :</strong></p>
+    <ul>
+        <li><a href="https://brave.com/">Brave Browser</a> – Bloque trackers par défaut.</li>
+        <li><a href="https://www.torproject.org/download/">Tor Browser</a> – Anonymat via Tor.</li>
+        <li>Extensions : <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere (EFF)</a>, <a href="https://github.com/gorhill/uBlock">uBlock Origin</a>, <a href="https://privacybadger.org/">Privacy Badger (EFF)</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/">User-Agent Switcher</a>.</li>
+        <li>Tests : <a href="https://coveryourtracks.eff.org/">Cover Your Tracks (Panopticlick successor)</a>, <a href="https://amiunique.org/">AmIUnique</a>, <a href="https://browserleaks.com/">BrowserLeaks</a>.</li>
+    </ul>
+
+    <p><strong>Masquage IP :</strong></p>
+    <ul>
+        <li><a href="https://mullvad.net/">Mullvad VPN</a> – No-logs, paiement crypto.</li>
+        <li><a href="https://protonvpn.com/">ProtonVPN</a> – Gratuit/premium, open-source.</li>
+        <li><a href="https://www.cnet.com/tech/services-and-software/best-vpn/">Comparatif VPN OPSEC 2025</a> – NordVPN, Surfshark, etc.</li>
+    </ul>
+
+    <p><strong>Comptes & Identités :</strong></p>
+    <ul>
+        <li><a href="https://www.fakenamegenerator.com/">Fake Name Generator</a> – Identités fictives.</li>
+        <li><a href="https://thispersondoesnotexist.com/">ThisPersonDoesNotExist</a> – Photos IA.</li>
+        <li><a href="https://proton.me/mail">ProtonMail</a> – Email chiffré.</li>
+        <li><a href="https://temp-mail.org/">Temp Mail</a> – Emails jetables.</li>
+        <li><a href="https://sms-activate.org/">SMS-Activate</a> – Numéros virtuels.</li>
+        <li><a href="https://keepassxc.org/">KeePassXC</a> – Gestionnaire de mots de passe.</li>
+    </ul>
+
+    <p><strong>Recherche & Métadonnées :</strong></p>
+    <ul>
+        <li><a href="https://duckduckgo.com/">DuckDuckGo</a> – Moteur privé.</li>
+        <li><a href="https://searx.space/">Searx</a> – Métamoteur.</li>
+        <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a> – Recherche usernames.</li>
+        <li><a href="https://exiftool.org/">ExifTool</a> – Nettoyage métadonnées.</li>
+    </ul>
+
+    <p><strong>Communication :</strong></p>
+    <ul>
+        <li><a href="https://signal.org/">Signal</a> – Messagerie E2EE.</li>
+        <li><a href="https://www.openpgp.org/">PGP/OpenPGP</a> – Chiffrement emails.</li>
+    </ul>
+
+    <p><strong>Autres :</strong></p>
+    <ul>
+        <li><a href="https://attack.mitre.org/">MITRE ATT&CK</a> – Framework pour modéliser menaces.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="frameworks"></a>
+    <h2>🧰 Frameworks</h2>
+    <ul>
+        <li><a href="https://osintframework.com/">OSINT Framework (pour OPSEC)</a> – Arbre d'outils, adapté à la détection de fuites.</li>
+        <li><a href="https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap">Crypto-OpSec Roadmap (MindMeister Integration)</a> – Visualisez ce roadmap avec <a href="https://www.mindmeister.com/">MindMeister</a>, un outil de mind mapping en ligne (GDPR-compliant, collaboration temps réel) pour organiser idées, processus et contre-mesures OPSEC.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="autre-sources"></a>
+    <h2>🔍 Autres Sources</h2>
+    <ul>
+        <li><a href="https://opsectechniques.com/">OpSec Techniques</a> – Techniques avancées (contenu limité, focus sur cloaking).</li>
+        <li><a href="https://www.osintcurio.us/2019/04/18/basic-opsec-tips-and-tricks-for-osint-researchers/index.htm">Basic OPSEC Tips for OSINT</a> – Conseils pour chercheurs.</li>
+        <li><a href="https://www.reddit.com/r/hacking/comments/vj0zb0/lets_talk_about_opsec/?tl=fr">Parlons d'OPSEC (Reddit)</a> – Discussion sur l'OPSEC comme minimisation des ressources et risques.</li>
+        <li><a href="https://infuse.quest/fr/learning-path/2/module-2/">Conditions préalables de l'OPSEC (Infuse Quest)</a> – Configuration d'un environnement sûr pour l'analyse de malwares.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="boards"></a>
+    <h2>📋 Boards</h2>
+    <ul>
+        <li><a href="https://start.me/p/rxE68b/opsec?locale=fr">OPSEC Dashboard (Start.me)</a> – Compilation de ressources OPSEC en français, avec liens vers articles, outils et guides pratiques.</li>
+        <li><a href="https://start.me/p/BnrKpe/02-opsec-online-privacy?locale=fr">OPSEC Online Privacy Dashboard (Start.me)</a> – Tableau de bord sur la privacy en ligne et OPSEC, incluant des ressources pour la protection numérique quotidienne.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="opsec-communaute"></a>
+    <h1>🛡️ OPSEC Communauté</h1>
+    <br><br>
+
+    <a id="communautes-fr"></a>
+    <h2>🇫🇷 Communautés FR</h2>
+
+    <ul>
+        <li><strong><a href="https://www.reddit.com/r/opsec/search/?q=french">[r/opsec (Reddit FR threads)]</a></strong> 🟢 <strong>Actif</strong><br>
+            Discussions OPSEC en français sur Reddit.<br>
+            Échanges sur outils et menaces locales.
+        </li>
+
+        <li><strong><a href="https://discord.gg/search?q=opsec+fr">[Discord OPSEC FR (via Infosec FR)]</a></strong> 🟢 <strong>Actif</strong><br>
+            Serveurs francophones sur privacy et OPSEC.<br>
+            Entraide pour configs VPN/VM.
+        </li>
+    </ul>
+
+    ---
+    <br>
+
+    <a id="communautes-en"></a>
+    <h2>🌍 Communautés EN</h2>
+
+    <ul>
+        <li><strong><a href="https://www.reddit.com/r/opsec/">[r/opsec (Reddit)]</a></strong> 🟢 <strong>Actif</strong><br>
+            Communauté principale OPSEC (100k+ membres).<br>
+            Discussions sur fuites, outils et cas réels.
+        </li>
+
+        <li><strong><a href="https://disboard.org/en/servers/tag/opsec">[OPSEC Discord]</a></strong> 🟢 <strong>Actif</strong><br>
+            Serveur dédié à privacy, ethical hacking et Linux-first OPSEC.<br>
+            Partage de ressources et bots.
+        </li>
+
+        <li><strong><a href="https://discord.com/invite/offsec">[OffSec Discord]</a></strong> 🟢 <strong>Actif</strong><br>
+            Communauté Offensive Security pour OPSEC en pentesting.<br>
+            85k+ membres, échanges pros.
+        </li>
+
+        <li><strong><a href="https://flare.io/glossary/opsec-training/">[Flare Academy Discord]</a></strong> 🟢 <strong>Actif</strong><br>
+            Communauté pour trainings OPSEC et threat intel.
+        </li>
+
+        <li><strong><a href="https://forum.qubes-os.org/t/rate-my-opsec/17871">[Qubes OS Forum]</a></strong> 🟠 <strong>Peu actif</strong><br>
+            Discussions OPSEC avec VMs isolées.
+        </li>
+    </ul>
+
+    ---
+    <br>
+
+    <a id="opsec-formations"></a>
+    <h1>🛡️ OPSEC Formations</h1>
+    <br>
+
+    <a id="formations-gratuites"></a>
+    <h2>🎓 Formations gratuites</h2>
+    <ul>
+        <li><a href="https://www.cdse.edu/Training/Operations-Security/">OPSEC Awareness (CDSE)</a> – Cours web-based pour bases OPSEC.</li>
+        <li><a href="https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf/ncsc-nittf-training">NITTF OPSEC Training</a> – Formation nationale gratuite.</li>
+        <li><a href="https://tryhackme.com/room/opsec">Red Team OPSEC (TryHackMe)</a> – Exercices interactifs.</li>
+        <li><a href="https://flare.io/glossary/opsec-training/">Flare Academy Webinars</a> – Webinars gratuits sur OPSEC.</li>
+        <li><a href="https://ssd.eff.org/">Surveillance Self-Defense (EFF)</a> – Guide et modules gratuits.</li>
+        <li><a href="https://www.cisa.gov/resources-tools/programs/ics-training-available-through-cisa">ICS OPSEC (CISA)</a> – OPSEC pour systèmes critiques.</li>
+        <li><a href="https://opsecacademy.org/">OPSEC Academy</a> – Éducation décentralisée et sécurisée sur OPSEC.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="formations-payantes"></a>
+    <h2>💼 Formations / certifications payantes</h2>
+    <ul>
+        <li><a href="https://opsecsociety.org/certifications/">OPSEC Certified Professional (OCP)</a> – Certification pro OPSEC.</li>
+        <li><a href="https://niccs.cisa.gov/training/catalog/tonex/certified-operational-security-opsec-professional-copsecp">Certified OPSEC Professional (COPSECP)</a> – Formation + certif.</li>
+        <li><a href="https://www.securitycompass.com/training_courses/ops101-opsec-fundamentals/">OPS101: OpSec Fundamentals</a> – Bases pour déploiement.</li>
+        <li><a href="https://www.justhacking.com/course/opsec-privacy-for-security-professionals/">OpSec - Privacy for Security Pros (Just Hacking)</a> – Cours à prix libre (min. 10$).</li>
+        <li><a href="https://www.offsec.com/courses/pen-200/">PEN-200: OSCP+ (OffSec)</a> – Pentesting avec OPSEC.</li>
+        <li><a href="https://www.myosint.training/courses/opsec-and-privacy">Operational Security and Privacy (My OSINT Training)</a> – 2h sur configs personnalisées.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="challenges"></a>
+    <h2>🕹️ Challenges</h2>
+    <ul>
+        <li><a href="https://tryhackme.com/room/opsec">TryHackMe OPSEC Room</a> – Défis Red Team.</li>
+        <li><a href="https://ssd.eff.org/module-categories/tool-guides">EFF SSD Scenarios</a> – Simulations surveillance.</li>
+        <li><a href="https://forum.qubes-os.org/t/rate-my-opsec/17871">Qubes OPSEC Rating</a> – Auto-évaluation VM.</li>
+    </ul>
+    ---
+    <br>
+
+    <a id="opsec-jobs"></a>
+    <h1>🛡️ OPSEC Jobs</h1>
+    <br>
+
+    <a id="entreprises-francaises"></a>
+    <h2>🇫🇷 Entreprises françaises spécialisées en OPSEC</h2>
+    <p>Voici une liste d’entreprises françaises axées sur OPSEC, privacy et cybersécurité.</p>
+
+    <ul>
+        <li><strong>OpSec Security France</strong> – Solutions anti-contrefaçon et protection en ligne. <a href="https://www.opsecsecurity.com/">Site</a></li>
+        <li><strong>ProtonVPN (Suisse/FR ops)</strong> – VPN no-logs pour OPSEC. <a href="https://protonvpn.com/">Site</a></li>
+        <li><strong>Mullvad (EU/FR)</strong> – VPN anonyme. <a href="https://mullvad.net/">Site</a></li>
+    </ul>
+    ---
+    <br>
+
+    <a id="entreprises-internationales"></a>
+    <h2>🌍 Entreprises internationales spécialisées en OPSEC</h2>
+    <ul>
+        <li><strong>OpSec Security (Global)</strong> – Protection intégrée pour brands. <a href="https://www.opsecsecurity.com/">Site</a></li>
+        <li><strong>EFF (US)</strong> – Advocacy et outils OPSEC. <a href="https://www.eff.org/">Site</a></li>
+        <li><strong>Tor Project (Global)</strong> – Anonymat réseau. <a href="https://www.torproject.org/">Site</a></li>
+    </ul>
+    ---
+    <br>
+
+    <a id="recherche-emploi"></a>
+    <h2>🏢 Recherche Emploi</h2>
+    <ul>
+        <li><a href="https://www.indeed.com/q-opsec-jobs.html">Indeed OPSEC Jobs</a></li>
+        <li><a href="https://www.linkedin.com/jobs/opsec-security-jobs-worldwide">LinkedIn OPSEC Security</a></li>
+        <li><a href="https://www.ziprecruiter.com/Jobs/Opsec">ZipRecruiter OPSEC</a></li>
+        <li><a href="https://canadiancybersecurityjobs.com/">Canadian Cybersecurity Jobs</a></li>
+    </ul>
+    ---
+    <br><br>
+
+    <a id="bonus"></a>
+    <h1>🎖️ Bonus</h1>
+
+    <p>Le processus OPSEC (Operations Security) est une méthode systématique pour identifier, contrôler et protéger les informations critiques contre les menaces potentielles. Il est applicable à tous, que ce soit dans le contexte militaire, professionnel, personnel ou même pour la sécurité des cryptomonnaies. Ce guide suit le flux standard du processus OPSEC, enrichi par des ressources spécialisées. Le flux se compose de cinq étapes clés, représentées ci-dessous en tableau pour plus de clarté.</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Étape</th>
+                <th>Description Brève</th>
+                <th>Objectif Principal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1. Identifier les informations critiques</td>
+                <td>Déterminer ce qui doit être protégé.</td>
+                <td>Éviter la divulgation involontaire.</td>
+            </tr>
+            <tr>
+                <td>2. Analyser les menaces</td>
+                <td>Identifier les acteurs malveillants.</td>
+                <td>Comprendre les intentions et capacités.</td>
+            </tr>
+            <tr>
+                <td>3. Analyser les vulnérabilités</td>
+                <td>Évaluer les faiblesses internes.</td>
+                <td>Détecter les points d'entrée potentiels.</td>
+            </tr>
+            <tr>
+                <td>4. Évaluer les risques</td>
+                <td>Calculer la probabilité et l'impact.</td>
+                <td>Prioriser les actions.</td>
+            </tr>
+            <tr>
+                <td>5. Appliquer les contre-mesures</td>
+                <td>Mettre en place des protections.</td>
+                <td>Réduire les risques résiduels.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Ce processus est itératif et doit être revu régulièrement, car les menaces évoluent (par exemple, phishing en crypto ou exposition sur les réseaux sociaux).</p>
+    <br><br>
+
+    <p>Voici trois illustrations pour visualiser le processus.</p>
+
+    <ol>
+        <li><strong>Diagramme du Flux OPSEC Complet</strong> : Une vue d'ensemble du cycle de décision.<br><br>
+            <img src="picture/opsec_flow_1.jpg" alt="Diagramme du Flux OPSEC Complet">
+        </li>
+
+        <li><strong>Identification des Informations Critiques</strong> : Schéma public/private.<br><br>
+            <img src="picture/opsec_flow_3.jpg" alt="Identification des Informations Critiques">
+        </li>
+
+        <li><strong>Matrice d'Évaluation des Risques</strong> : Visualisation 5x5 pour prioriser.<br><br>
+            <img src="picture/opsec_flow_2.jpg" alt="Matrice d'Évaluation des Risques">
+        </li>
+    </ol>
+    ---
+    <br><br>
+
+    <h2>Licence</h2>
+
+    <p>OPSEC-HUB-FR has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
+
+    You can use it for research and training purposes; however, commercialization is not authorized.<br>
+    All documents are available in open source access:<br><br></p>
+
+    <br><br>
+
+    <p class="centered">
+        <img src="picture/helios.jpg" alt="Hermes" width="300" height="auto"><br>
+        <b>HELIOS</b>
+    </p>
+
+    <blockquote class="centered">
+        📌 <em>Dernière mise à jour : Novembre 2025</em><br>
+        <em>Contributions bienvenues via Pull Request.</em>
+    </blockquote>
+</body>
+</html>
