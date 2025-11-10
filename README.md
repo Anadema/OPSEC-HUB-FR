@@ -1,12 +1,9 @@
-# 🔒 **OPSEC-GUIDE-FR** 🔒
+# 🔒 **OPSEC-HUB-FR** 🔒
 <br><br>
 
 <p align="center">
   <img src="picture/ops.jpg" width="600" style="background-color:black; padding:2px;">
 </p>
-<br><br>
-
-# 🛡️ OPSEC-HUB-FR 
 <br><br>
 
 <p>
