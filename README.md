@@ -60,8 +60,8 @@
 - [OpSec Oversights: How Cybercrooks Get Caught](https://www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/) – Échecs célèbres.
 - [What Were Ross Ulbricht's Biggest Mistakes?](https://plasbit.com/blog/what-were-ross-ulbricht-biggest-mistakes) – Analyse des erreurs de Silk Road.
 - [Proactive Paranoia: AlphaBay Case](https://reallifemag.com/proactive-paranoia/) – Leçons d'Alexandre Cazes.
-- [Crypto OPSEC Guide Part 1: Private Key Phishing Security](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security) – Guide sur la sécurité des clés privées en crypto contre le phishing.
-- [OPSEC: Everyone Has Something to Hide – Part 3](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) – OPSEC pour tous, focus sur les fuites personnelles et professionnelles.
+- [Crypto OPSEC Guide Part 1: Private Key Phishing Security](https://threesigma.xyz/blog/opsec/crypto-opsec-guide-part-1-private-key-phishing-security) – Guide sur la sécurité des clés privées en crypto.
+- [OPSEC: Everyone Has Something to Hide – Part 3](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) – OPSEC pour tous, focus sur les fuites.
 ---
 <br>
 
