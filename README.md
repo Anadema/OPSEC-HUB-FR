@@ -286,16 +286,16 @@ Ce processus est itératif et doit être revu régulièrement, car les menaces �
 Voici trois illustrations pour visualiser le processus. 
 
 1. **Diagramme du Flux OPSEC Complet** :  <br><br>
-   ![Diagramme du Flux OPSEC Complet](picture/opsec_flow_1.jpg) 
+   ![Diagramme du Flux OPSEC Complet](picture/opsec_flow_1.jpg) <br>
    [Source](https://www.behance.net/gallery/138155591/OPSEC-Security-Awareness-Month#) 
    
 
 2. **Identification des Informations Critiques** :  <br><br>
-   ![Identification des Informations Critiques](picture/opsec_flow_3.jpg) 
+   ![Identification des Informations Critiques](picture/opsec_flow_3.jpg) <br>
    [Source](https://www.tripwire.com/state-of-security/opsec-everyone-people-something-hide-part-3) 
 
 3. **Matrice d'Évaluation des Risques** :  <br><br>
-   ![Matrice d'Évaluation des Risques](picture/opsec_flow_2.jpg) 
+   ![Matrice d'Évaluation des Risques](picture/opsec_flow_2.jpg) <br>
    [Source](http://ribluestarmoms.com/opsec-operations-security/) 
    
 ---
