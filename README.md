@@ -10,10 +10,6 @@
 🇫🇷 <strong>OPSEC-HUB-FR</strong> constitue une plateforme stratégique à l'intention des apprenants et novices en sécurité opérationnelle : elle centralise des ressources techniques, des protocoles éprouvés et des tutoriels structurés, principalement en français avec des extensions en anglais, pour maîtriser la sécurisation des données critiques, anticiper les vulnérabilités de traçabilité et implémenter des mesures OPSEC de manière anticipée, méthodique et formatrice.<br><br>
 
 🇬🇧 <strong>OPSEC-HUB-FR</strong> serves as a strategic platform for learners and newcomers in operational security: it consolidates technical resources, proven protocols, and structured tutorials, primarily in French with English extensions, to master the safeguarding of critical data, anticipate traceability vulnerabilities, and implement OPSEC measures in an anticipatory, methodical, and educational framework.<br><br>
-
-🇷🇺 <strong>OPSEC-HUB-FR</strong> представляет собой стратегическую платформу для обучающихся и новичков в области оперативной безопасности: она консолидирует технические ресурсы, проверенные протоколы и структурированные руководства, в основном на французском с дополнениями на английском, чтобы освоить защиту критически важных данных, предвидеть уязвимости отслеживания и внедрять меры OPSEC предвидяще, методично и в образовательном формате.<br><br>
-
-🇮🇳 <strong>OPSEC-HUB-FR</strong> एक रणनीतिक मंच है जो सुरक्षा संचालन के सीखने वालों और नवागंतुकों के लिए है: यह तकनीकी संसाधनों, सिद्ध प्रोटोकॉल्स और संरचित ट्यूटोरियल्स को एकत्र करता है, मुख्य रूप से फ्रेंच में अंग्रेजी विस्तारों के साथ, महत्वपूर्ण डेटा की सुरक्षा को महारत हासिल करने, ट्रेसबिलिटी कमजोरियों की भविष्यवाणी करने और OPSEC उपायों को पूर्वानुमानित, व्यवस्थित और शैक्षिक ढांचे में लागू करने के लिए।
 </p>
 <br><br>
 
