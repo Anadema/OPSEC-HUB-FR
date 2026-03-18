@@ -297,10 +297,12 @@ Voici trois illustrations pour visualiser le processus.
 ---
 <br><br>
 
-# Licence
+## License
 
-Apache 2.0 voir page de licence
+Apache 2.0 — see `LICENSE` file.
 
+---
 
-> 📌 *Dernière mise à jour : Novembre 2025*  
-> _Contributions bienvenues via Pull Request._
+## Authors
+
+Anadema
