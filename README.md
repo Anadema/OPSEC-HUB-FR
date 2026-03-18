@@ -299,17 +299,8 @@ Voici trois illustrations pour visualiser le processus.
 
 # Licence
 
-OPSEC-HUB-FR has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
+Apache 2.0 voir page de licence
 
-You can use it for research and training purposes; however, commercialization is not authorized.<br>
-All documents are available in open source access:<br><br>
-
-<br><br>
-
-<p align="center">
-<img src="picture/helios.jpg" alt="Hermes" width="300" height="auto"><br>
-<b>HELIOS</b>
-</p>
 
 > 📌 *Dernière mise à jour : Novembre 2025*  
 > _Contributions bienvenues via Pull Request._
